@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "javascript.validate.enable": false,
+  "flow.path": "/usr/local/bin/flow",
+  "vsicons": {
+      "useFileAssociations": true,
+      "associations": [
+          ["_view", "jsx"],
+          ["_reducer", "zip"],
+          ["_container", "dockerfile"],
+          ["_action", "tpl"]
+      ]
+  }
+}
