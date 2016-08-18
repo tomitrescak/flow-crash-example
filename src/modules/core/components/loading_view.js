@@ -1,6 +1,6 @@
 // @flow
 
-import React, { Component } from 'react';
+import React from 'react';
 import { Text } from 'semanticui-react';
 import jss from 'jss';
 
